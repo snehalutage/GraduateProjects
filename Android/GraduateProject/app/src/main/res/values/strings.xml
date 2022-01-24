@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">GraduateProject</string>
+    <string name="app_title">Test your Maths</string>
+    <string name="button_title">Select the math operation</string>
+    <string name="add_label">Addition</string>string>
+    <string name="sub_label">Subtraction</string>string>
+    <string name="mul_label">Multiplication</string>string>
+    <string name="div_label">Division</string>string>
+    <string name="result_label">Get Score</string>
+    <string name="home_label">Go back Home</string>
+    <string name="next_label">Next Question</string>
+    <string name="back_label">Home</string>
+    <string name="TotalScore">Your Score : </string>
+    <string name="ScoreTitle">Score Report</string>
+    <string name="ques1_label">Question 1</string>
+    <string name="ques2_label">Question 2</string>
+    <string name="ques3_label">Question 3</string>
+    <string name="ques4_label">Question 4</string>
+    <string name="ques5_label">Question 5</string>
+    <string name="ques_label">Question</string>
+    <string name="quotientAnsHint"><font size="20">Quotient</font></string>
+    <string name="RemainderAnsHint"><font size="20">Remainder</font></string>
+    <string name="answerHint"><font size="20">Your Answer</font></string>
+    <string name="help_string">\t* This app is to help kids learn Basic Math Operations\n\n
+        \t* Operations Included :- \n
+        \t\t1. Addition \n
+        \t\t2. Subtraction \n
+        \t\t3. Multiplication \n
+        \t\t4. Division \n
+        \t* User of app will be provided with 5 questions on each operation selected.\n
+        \t* Click Next button to go to next question.\n
+        \t* After 5 questions are answered, user can click on Score report.\n
+        \t* Score Report - It gives the user score Num correct questions / Total Questions \n
+        \t\tand which questions were correctly answered and incorrectly answered.\n
+        \t* A Home Button is provided at to go back to main menu.\n
+    </string>
+    <string name="help">Maths Tutor App Help</string>
+    <string name="title">Maths Tutor</string>
+</resources>

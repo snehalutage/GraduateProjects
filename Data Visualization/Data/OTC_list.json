@@ -1,0 +1,49 @@
+{
+   "OTCs":[
+      {
+         "OTC_Drug_Type":"Analgesics",
+         "Drugs":[
+            "ACETAMINOPHEN",
+            "ASPIRIN",
+            "IBUPROFEN",
+            "NAPROXEN"
+         ]
+      },
+      {
+         "OTC_Drug_Type":"Cough Cold",
+         "Drugs":[
+            "LORATADINE",
+            "FEXOFENADINE",
+            "DIPHENHYDRAMINE",
+            "DOXYLAMINE",
+            "GUAIFENESIN"
+         ]
+      },
+      {
+         "OTC_Drug_Type":"Anti-Diarrheal",
+         "Drugs":[
+            "LOPERAMIDE",
+            "ZANTAC"
+         ]
+      },
+      {
+         "OTC_Drug_Type":"Vitamins",
+         "Drugs":[
+            "NIACIN",
+            "RENO CAPS"
+         ]
+      },
+      {
+         "OTC_Drug_Type":"Decongestant",
+         "Drugs":[
+            "NASAL DECONGESTANT"
+         ]
+      },
+      {
+         "OTC_Drug_Type":"Sore Throat",
+         "Drugs":[
+            "CEPACOL"
+         ]
+      }
+   ]
+}
