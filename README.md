@@ -3,7 +3,7 @@
 Projects developed as part of my Computer Science Graduate Coursework.
 
 # Android
-Math's Tutor App - 
+# Math's Tutor App - 
 - It is a simple Android App for kids to test their knowledge with basic math operations. 
 - It includes questions related to basic operations Addition, Subtraction, Division, Multiplication.
 - Based on the user's answers a score report is provided.
